@@ -1,3 +1,9 @@
+gcc-5 (5.4.0-6ubuntu1~16.04.12) xenial; urgency=medium
+
+  * No change rebuild against security.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 18 Sep 2019 16:53:37 +0200
+
 gcc-5 (5.4.0-6ubuntu1~16.04.11) xenial; urgency=medium
 
   * Backport upstream revision r235876 to correct PIC_OFFSET_TABLE_REGNUM
